@@ -127,7 +127,7 @@ I'm continuously learning modern technologies and best practices to improve my s
     <img src="https://img.shields.io/badge/LinkedIn-Yulianto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://www.tiktok.com/@mashanyu8">
+  <a href="https://www.tiktok.com/@comingsoon😁">
     <img src="https://img.shields.io/badge/TikTok-@mashanyu8-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
 </p>
