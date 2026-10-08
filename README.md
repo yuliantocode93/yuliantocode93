@@ -118,7 +118,7 @@ I'm continuously learning modern technologies and best practices to improve my s
 </a>
   &nbsp;
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yulianto.93.jobs@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Gmail-Yulianto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 </p>
 
