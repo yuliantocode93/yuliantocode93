@@ -113,23 +113,13 @@ I'm continuously learning modern technologies and best practices to improve my s
 # 📫 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/yuliantocode93">
-    <img src="https://img.shields.io/badge/GitHub-yuliantocode93-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<a href="https://www.linkedin.com/in/yulianto-789413b1/">
+  <img src="https://img.shields.io/badge/LinkedIn-Yulianto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
   &nbsp;
- <a href="https://mail.google.com/mail/?view=cm&fs=1&to=yulianto.93.jobs@gmail.com">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=yulianto.93.jobs@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/yulianto-789413b1/">
-    <img src="https://img.shields.io/badge/LinkedIn-Yulianto-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://www.tiktok.com/@comingsoon😁">
-    <img src="https://img.shields.io/badge/TikTok-@mashanyu8-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
 </p>
 
 ---
