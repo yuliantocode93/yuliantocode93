@@ -52,10 +52,6 @@ I specialize in developing responsive frontend interfaces with **React**, buildi
 
 # 🌱 Currently Learning
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,postgres,docker,aws" />
-</p>
-
 * 🚀 Next.js (App Router)
 * <img src="https://skillicons.dev/icons?i=nestjs" width="20" height="20" alt="NestJS"/> NestJS
 * 📘 TypeScript
