@@ -57,6 +57,7 @@ I specialize in developing responsive frontend interfaces with **React**, buildi
 </p>
 
 * 🚀 Next.js (App Router)
+* 🏗️ NestJS
 * 📘 TypeScript
 * ⚡ Zustand
 * 🔄 Redux Toolkit
@@ -67,6 +68,7 @@ I specialize in developing responsive frontend interfaces with **React**, buildi
 * 🔄 CI/CD
 * 🏗️ System Design
 * 🧩 Microservices Architecture
+  
 
 ---
 
