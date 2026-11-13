@@ -31,8 +31,7 @@ I specialize in developing responsive frontend interfaces with **React**, buildi
 ## Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,insomnia" />
-  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,postman" />
 </p>
 
 ---
