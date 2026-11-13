@@ -19,7 +19,7 @@ I specialize in developing responsive frontend interfaces with **React**, buildi
 ## Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
 </p>
 
 ## Database
