@@ -25,13 +25,13 @@ I specialize in developing responsive frontend interfaces with **React**, buildi
 ## Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
 
 ## Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,insomnia" />
   <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" />
 </p>
 
@@ -42,7 +42,7 @@ I specialize in developing responsive frontend interfaces with **React**, buildi
 * 🚀 Build Full Stack Web Applications
 * ⚛️ Develop Responsive User Interfaces with React.js
 * 🔧 Build RESTful APIs using Node.js, NestJS & Express.js
-* 🗄️ Design and Manage MongoDB & MySQL Databases
+* 🗄️ Design and Manage MongoDB, PostgreSQL & MySQL Databases
 * 🔐 Implement Authentication & Authorization (JWT)
 * 📦 Build CRUD Applications
 * 🔗 Integrate Third-Party APIs
