@@ -41,7 +41,7 @@ I specialize in developing responsive frontend interfaces with **React**, buildi
 
 * 🚀 Build Full Stack Web Applications
 * ⚛️ Develop Responsive User Interfaces with React.js
-* 🔧 Build RESTful APIs using Node.js & Express.js
+* 🔧 Build RESTful APIs using Node.js, NestJS & Express.js
 * 🗄️ Design and Manage MongoDB & MySQL Databases
 * 🔐 Implement Authentication & Authorization (JWT)
 * 📦 Build CRUD Applications
