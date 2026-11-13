@@ -57,7 +57,7 @@ I specialize in developing responsive frontend interfaces with **React**, buildi
 </p>
 
 * 🚀 Next.js (App Router)
-* <img src="https://skillicons.dev/icons?i=nestjs" width="24" height="24" alt="NestJS"/> NestJS
+* <img src="https://skillicons.dev/icons?i=nestjs" width="20" height="20" alt="NestJS"/> NestJS
 * 📘 TypeScript
 * ⚡ Zustand
 * 🔄 Redux Toolkit
