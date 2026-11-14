@@ -67,35 +67,108 @@ I specialize in developing responsive frontend interfaces with **React**, buildi
 
 ---
 
-# 📂 Featured Projects
+## MERN E-Commerce Platform
 
-## 🛒 MERN E-Commerce
+A full-stack, production-style e-commerce application built from scratch using modern web technologies. The platform includes both customer-facing and admin management interfaces, providing a complete e-commerce solution with authentication, product management, shopping experience, order processing, and administrative dashboards.
 
-A full-featured e-commerce application with authentication, shopping cart, product management, and payment integration.
+### Key Features
+
+- Customer & Admin Dashboards
+- User Authentication & Authorization
+- Product Management
+- Category Management
+- Promo Code Management
+- Shopping Cart
+- Wishlist Management
+- Checkout System
+- Order Management
+- Product Returns Management
+- Homepage Banner Management
+- Application Settings
+- Admin Dashboard & Analytics
+- Responsive User Interface
 
 ### Tech Stack
 
-React • Node.js • Express.js • MongoDB
+React • Vite • TypeScript • Node.js • Express.js • MongoDB • Tailwind CSS • REST API
 
 ---
 
-## ✅ Task Management App
+## Real Estate Management System
 
-A task management platform with authentication, CRUD functionality, and real-time updates.
+A full-stack multi-user real estate management application built using the MERN Stack (MongoDB, Express.js, React.js, and Node.js). Designed to manage real estate operations with user authentication, role-based access, property management, and centralized data management.
+
+### Key Features
+
+- Multi-User Management
+- User Authentication & Authorization
+- Property Management
+- Real Estate Listings
+- Property Information Management
+- CRUD Operations
+- RESTful API Integration
+- Responsive User Interface
 
 ### Tech Stack
 
-React • Express.js • MongoDB
+MongoDB • Express.js • React.js • Node.js • JavaScript • REST API • JWT Authentication
 
 ---
 
-## 🏫 School Management System
+## Node.js Microservices Architecture
 
-A web application for managing students, teachers, attendance, classes, and academic reports.
+A production-style microservices application built with Node.js and TypeScript, implementing scalable backend services, API Gateway, secure authentication, event-driven communication, and distributed workflows.
+
+### Key Features & Technologies
+
+- Node.js + TypeScript
+- PostgreSQL with Neon Database
+- Neon Database Branching
+- API Gateway & Request Proxying
+- JWT Authentication & Role-Based Access Control (RBAC)
+- Protected Routes & Gateway Secrets
+- Auth Service & Task Service
+- Neon Storage with S3-Compatible APIs
+- File Uploads using Multer
+- Apache Kafka Setup using Docker
+- Kafka Producers, Consumers, Topics, Partitions & Offsets
+- Event-Driven Communication with KafkaJS
+- Workflow Service Implementation
+- Production-Style Microservices Architecture
 
 ### Tech Stack
 
-React • Node.js • Express.js • MySQL
+Node.js • TypeScript • PostgreSQL • Neon • API Gateway • JWT • Docker • Apache Kafka • KafkaJS • Multer • S3-Compatible Storage
+
+---
+
+## 🏪 Full Stack Marketplace Application
+
+A full-featured marketplace application built from scratch using modern full-stack technologies and production-ready architecture. Featuring scalable backend services, asynchronous messaging, caching, real-time communication, and efficient data management.
+
+### Tech Stack
+
+Next.js • Express.js • PostgreSQL • Docker • NATS JetStream • Redis • Server-Sent Events (SSE) • WebSockets
+
+---
+
+## 🛒 Scalable E-Commerce Backend API
+
+A scalable and secure e-commerce backend API built using modern backend engineering practices. Designed to support maintainable architecture, efficient database operations, secure authentication, containerization, and cloud deployment.
+
+### Tech Stack
+
+NestJS • Prisma ORM • PostgreSQL • JWT Authentication • Docker • AWS • CI/CD
+
+---
+
+## 🍔 NestJS + React Native — Food Delivery App
+
+A full-featured food delivery application built with NestJS and React Native, featuring user authentication, restaurant management, food ordering, shopping cart, order tracking, and payment integration.
+
+### Tech Stack
+
+NestJS • React Native • TypeScript • PostgreSQL • REST API • JWT
 
 ---
 
