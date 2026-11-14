@@ -66,6 +66,8 @@ I specialize in developing responsive frontend interfaces with **React**, buildi
   
 
 ---
+📂 Featured Projects
+---
 
 ## MERN E-Commerce Platform
 
