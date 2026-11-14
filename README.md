@@ -4,7 +4,7 @@
 
 I'm a passionate **Full Stack MERN Developer** from Indonesia who enjoys building modern, scalable, and user-friendly web applications.
 
-I specialize in developing responsive frontend interfaces with **React**, building robust backend services using **Node.js** and **Express.js**, designing RESTful APIs, and managing databases to create complete end-to-end web solutions.
+I specialize in developing responsive frontend interfaces with **React**, building robust backend services using **Node.js**, **NestJS** and **Express.js**, designing RESTful APIs, and managing databases to create complete end-to-end web solutions.
 
 ---
 
